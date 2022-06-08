@@ -1,0 +1,32 @@
+body {
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    background: #000000;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.gif-card {
+    background: #ffffff;
+    border-radius: 15px;
+    border: 5px solid #000000;
+    padding: 20px;
+    margin: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
